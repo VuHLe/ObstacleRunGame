@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vu le\\desktop\\ue5 learning\\obstaclerun\\source\\obstaclerun\\obstaclerun.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\vu le\\desktop\\ue5 learning\\obstaclerun\\intermediate\\build\\win64\\obstacleruneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\vu le\\desktop\\ue5 learning\\obstaclerun\\intermediate\\build\\win64\\unrealeditor\\development\\obstaclerun\\definitions.obstaclerun.h",
+            "c:\\users\\vu le\\desktop\\ue5 learning\\obstaclerun\\source\\obstaclerun\\obstaclerun.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

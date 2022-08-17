@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\ObstacleRun\\Source\\ObstacleRun\\MovingPlatform.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\ObstacleRun\\.vscode\\compileCommands_ObstacleRun\\ObstacleRun.205.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\ObstacleRun\\Source\\ObstacleRun\\MovingPlatform.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\ObstacleRun\\.vscode\\compileCommands_ObstacleRun\\ObstacleRun.205.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\ObstacleRun\\Source\\ObstacleRun\\ObstacleRun.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\ObstacleRun\\.vscode\\compileCommands_ObstacleRun\\ObstacleRun.205.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\ObstacleRun\\Source\\ObstacleRun\\ObstacleRun.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\ObstacleRun\\.vscode\\compileCommands_ObstacleRun\\ObstacleRun.205.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\ObstacleRun\\Source\\ObstacleRun\\ObstacleRun.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\ObstacleRun\\.vscode\\compileCommands_ObstacleRun\\ObstacleRun.205.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ObstacleRun",
+			"Path": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\ObstacleRun\\Source\\ObstacleRun.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ObstacleRunEditor",
+			"Path": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\ObstacleRun\\Source\\ObstacleRunEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

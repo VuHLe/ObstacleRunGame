@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ObstacleRun.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Vu Le\Desktop\UE5 learning\ObstacleRun\Intermediate\Build\Win64\ObstacleRunEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\ObstacleRun\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleRun\MovingPlatform.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\ObstacleRun\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleRun\ObstacleRun.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\ObstacleRun\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleRun\MovingPlatform.gen.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\ObstacleRun\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleRun\ObstacleRun.init.gen.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\ObstacleRun\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleRun\Default.rc2.res"
+/OUT:"C:\Users\Vu Le\Desktop\UE5 learning\ObstacleRun\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleRun\UnrealEditor-ObstacleRun.lib"
